@@ -2,6 +2,10 @@
 
 O código para essa demo veio [deste exercício](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/f04cdb21-382e-4588-8950-3b1a29afd2dd/section/9583cb4e-f187-48a3-a9eb-ed48404430e5/lesson/7a58380f-46f3-4652-8a63-5b4ea84255bc) que está no módulo de [Real Life Engineering](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/f04cdb21-382e-4588-8950-3b1a29afd2dd). Foi adicionado o linter de back-end e as devidas correções de lint;
 
+## Cobertura de testes
+
+[![codecov](https://codecov.io/gh/rodrigoccurvo/devpack-t30-ci-github-actions-noite/graph/badge.svg?token=2K9FRGI7X3)](https://codecov.io/gh/rodrigoccurvo/devpack-t30-ci-github-actions-noite)
+
 ## Rodando o projeto
 
 1️⃣ Instale as dependências
