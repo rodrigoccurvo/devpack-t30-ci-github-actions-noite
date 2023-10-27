@@ -144,7 +144,7 @@ describe('ProductController', function () {
 
       ProductController.createProduct(mockReq, mockRes);
       expect(addProductSpy).toBeCalledTimes(1);
-      expect(mockRes.status).toBeCalledWith(200);
+      expect(mockRes.status).toBeCalledWith(201);
       expect(mockRes.json).toBeCalledWith(mockData);
       addProductSpy.mockRestore();
     });
